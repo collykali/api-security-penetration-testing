@@ -1,2 +1,7 @@
-# api-security-penetration-testing
-Hands-on API security learning journey covering reconnaissance, endpoint analysis, injection testing, BOLA, vulnerability chaining, AI-powered API security, Burp Suite, Nmap, fuzzing, and security reporting.
+# API Security & Penetration Testing
+
+**Author:** Collins Onyeka  
+**Focus:** API Security | Penetration Testing | Cybersecurity
+
+> A hands-on learning journey into API reconnaissance, endpoint analysis,
+> injection testing, vulnerability chaining, and AI-powered API security.
