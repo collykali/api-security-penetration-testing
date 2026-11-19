@@ -12,3 +12,5 @@ Hands-on offensive security, AI-assisted reconnaissance, and cryptographic audit
 ## Environment
 - **OS:** Kali Linux (Oracle VirtualBox)
 - **Author:** Collins M. Onyeka (`@collykali`)
+
+- [AI-Assisted JTR Password Cracking Lab (HexStrike MCP + Claude Desktop)](./ai_jtr_password_cracking_lab.md)
